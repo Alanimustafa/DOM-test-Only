@@ -1,0 +1,29 @@
+body {
+  background-color: #333c3f;
+  padding: 30vh;
+}
+
+.theScreen {
+  border: solid red 5px;
+  background-color: rgb(255, 235, 193);
+  height: 250px;
+  width: 50%;
+  font-size: 40px;
+  justify-self: center;
+}
+
+.mainContainer {
+  justify-self: center;
+  margin-top: 5vh;
+}
+button {
+  border: solid black 3px;
+  background-color: rgb(0, 71, 65);
+  padding: 25px;;
+  border-radius: 50px;;
+  font-size: 30px;
+  margin: 30px;;
+  font-weight: bold;
+  color: white;
+}
+
